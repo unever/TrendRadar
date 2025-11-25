@@ -45,7 +45,7 @@ Anthropic
 ai
 !gai
 人工智能
-@5
+@15
 
 科技
 @10
