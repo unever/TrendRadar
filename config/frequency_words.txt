@@ -32,6 +32,8 @@ HarmonyOS
 
 豆包输入法
 
+Chrome 垂直标签
+
 谷歌
 google
 gemini
